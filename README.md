@@ -19,3 +19,6 @@ Mạch đồng hồ Internet được phát triển dựa trên ESP8266
   + Reset
   + Cấu hình Wifi và báo thức
 
+### Video demo sản phẩm
+[https://www.youtube.com/watch?v=Qgb1mrwhS3c](https://www.youtube.com/watch?v=Qgb1mrwhS3c)
+
